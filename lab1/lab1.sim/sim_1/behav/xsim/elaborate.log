@@ -1,0 +1,23 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Program/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto a69268eb8d194f75a81525e8c4af2d76 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot sort_sim_behav xil_defaultlib.sort_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 3 for port 'sel' [C:/Users/xujh2649/Desktop/workspace/vivado/lab1/lab1.srcs/sources_1/new/fuc.v:120]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 3 for port 'sel' [C:/Users/xujh2649/Desktop/workspace/vivado/lab1/lab1.srcs/sources_1/new/fuc.v:121]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 3 for port 'sel' [C:/Users/xujh2649/Desktop/workspace/vivado/lab1/lab1.srcs/sources_1/new/fuc.v:122]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 3 for port 'sel' [C:/Users/xujh2649/Desktop/workspace/vivado/lab1/lab1.srcs/sources_1/new/fuc.v:123]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 3 for port 'sel' [C:/Users/xujh2649/Desktop/workspace/vivado/lab1/lab1.srcs/sources_1/new/fuc.v:124]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 3 for port 'sel' [C:/Users/xujh2649/Desktop/workspace/vivado/lab1/lab1.srcs/sources_1/new/fuc.v:125]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.register(WIDTH=4)
+Compiling module xil_defaultlib.alu(WIDTH=4)
+Compiling module xil_defaultlib.mux4(WIDTH=4)
+Compiling module xil_defaultlib.sort
+Compiling module xil_defaultlib.sort_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sort_sim_behav

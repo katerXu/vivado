@@ -1,0 +1,7 @@
+Running: xsim.dir/edge_test_behav/xsimk.exe -simmode gui -wdb edge_test_behav.wdb -simrunnum 0 -socket 62886
+Design successfully loaded
+Design Loading Memory Usage: 8116 KB (Peak: 8116 KB)
+Design Loading CPU Usage: 484 ms
+Simulation completed
+Simulation Memory Usage: 8544 KB (Peak: 8544 KB)
+Simulation CPU Usage: 484 ms

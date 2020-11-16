@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Fri Jun 19 22:04:09 2020
+# Process ID: 16352
+# Current directory: C:/Users/xujh2649/Desktop/workspace/vivado/lab5/lab5.runs/dist_inst_rom_synth_1
+# Command line: vivado.exe -log dist_inst_rom.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dist_inst_rom.tcl
+# Log file: C:/Users/xujh2649/Desktop/workspace/vivado/lab5/lab5.runs/dist_inst_rom_synth_1/dist_inst_rom.vds
+# Journal file: C:/Users/xujh2649/Desktop/workspace/vivado/lab5/lab5.runs/dist_inst_rom_synth_1\vivado.jou
+#-----------------------------------------------------------
+source dist_inst_rom.tcl -notrace

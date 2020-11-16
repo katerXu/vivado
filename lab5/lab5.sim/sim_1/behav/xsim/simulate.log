@@ -1,0 +1,26 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING: Too many words specified in data file dist_inst_rom.mif
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING in tb_CPU.cpu.memory.inst at time                40000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               100000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               130000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               180000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               230000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               290000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               320000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               370000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               420000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+WARNING in tb_CPU.cpu.memory.inst at time               480000 ns: 
+Reading from out-of-range address. Max address in tb_CPU.cpu.memory.inst is          15
+$finish called at time : 500 ns : File "C:/Users/xujh2649/Desktop/workspace/vivado/lab5/lab5.srcs/sim_1/new/sim.v" Line 36
